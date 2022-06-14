@@ -1,0 +1,37 @@
+.content {
+  display: flex;
+  align-items: center;
+  gap: 10.625rem;
+
+  padding: 2.375rem 0;
+}
+
+.contentText {
+  margin-left: 8.45rem;
+}
+
+.contentText h1 {
+  font-size: 2rem;
+  font-family: 'Sora';
+  font-weight: 600;
+  line-height: 2.52rem;
+
+  color: var(--gray-200);
+
+  margin-bottom: 1.5rem;
+}
+
+.contentText p {
+  font-size: 1rem;
+  font-weight: 400;
+  font-family: 'inter';
+  color: var(--gray-200);
+
+  width: 27.75rem;
+
+  margin-bottom: 1.5rem;
+}
+
+.contentImage {
+  margin-right: 8.45rem;
+}

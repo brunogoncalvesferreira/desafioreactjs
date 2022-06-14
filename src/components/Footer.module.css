@@ -1,0 +1,12 @@
+.containerFooter {
+  padding: 2.5rem 0;
+}
+
+.containerFooter p {
+  text-align: center;
+  font-size: 1.125rem;
+  font-family: 'Sora';
+  font-weight: 400;
+
+  color: var(--gray-200);
+}

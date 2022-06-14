@@ -1,0 +1,44 @@
+.contentBox {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  background: var --white-200;
+}
+
+.info h1 {
+  font-size: 3rem;
+  font-family: 'Sora';
+  font-weight: 600;
+  line-height: 3.78rem;
+  color: var(--gray-200);
+  margin-left: 8.45rem;
+}
+
+.info button {
+  width: 12.5rem;
+  height: 3.5rem;
+
+  border: 0;
+  border-radius: 50px;
+
+  background: var(--blue--);
+
+  font-size: 1.25rem;
+  font-family: 'inter';
+  font-weight: 600;
+  line-height: 1.6;
+  color: var(--white);
+
+  margin-top: 4.125rem;
+  margin-left: 8.45rem;
+  transition: background 0.4s;
+}
+
+.info button:hover {
+  background: var(--blue-300);
+}
+
+.contentBox img {
+  margin-right: 8.45rem;
+}

@@ -1,0 +1,31 @@
+header {
+  padding: 1.5rem 0;
+
+  width: 100%;
+}
+
+.navigation {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-inline: 8.45rem;
+}
+
+.navigation ul {
+  display: flex;
+  gap: 4.125rem;
+}
+
+.navigation ul a {
+  font-size: 1.125rem;
+  font-family: 'Inter';
+  font-weight: 500;
+  line-height: 1.6;
+  color: var(--gray);
+
+  transition: color 0.4s;
+}
+
+.navigation ul a:hover {
+  color: var(--gray-200);
+}
