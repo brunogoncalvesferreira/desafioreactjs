@@ -4,7 +4,7 @@
 
 <p>Usei muito flexbox nesse projeto.</p>
 
-<p>Vou trabalhar ainda na responsividade para funcionar em dispositivos menorers.</p>
+<p>Vou trabalhar ainda na responsividade para funcionar em dispositivos menores.</p>
 
 <hr>
 
